@@ -4,6 +4,7 @@
 // @description     A zero-click QoL upgrade. Opens the Windows 11 taskbar overflow menu on hover and smartly closes it when you move away or click.
 // @version         1.0
 // @author          Cougar16
+// @github          https://github.com/Cougar16
 // @include         explorer.exe
 // @compilerOptions -lole32 -loleaut32 -luiautomationcore
 // ==/WindhawkMod==
