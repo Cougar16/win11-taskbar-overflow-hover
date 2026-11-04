@@ -6,9 +6,8 @@ Tired of clicking the small three-dot overflow icon on your taskbar? This mod tr
 ![Hover overflow menu](https://raw.githubusercontent.com/Cougar16/win11-taskbar-overflow-hover/main/assets/Hover-Overflow-Menu.png)
 
 ✨ **Smart Features:**
-* **Zero-Click Open:** Auto-expands the hidden icons menu just by resting your cursor on the overflow button (300ms default delay, easily adjustable).
-* **Auto-Dismiss:** Gracefully closes the menu automatically when your mouse leaves the overflow button or the flyout menu.
-* **Instant App Launch:** Instantly dismisses the overflow flyout the exact moment you click an app inside it, bypassing native Windows UI delay.
-* **Customizable Delays:** Fine-tune the hover-to-open and hover-to-close timings to perfectly match your personal workflow.
+* **Zero-Click Open:** Auto-expands the hidden icons menu just by hovering.
+* **Auto-Dismiss:** Gracefully closes the menu automatically the moment your mouse leaves the overflow button or the flyout.
+* **Instant App Launch:** Instantly dismisses the overflow flyout the exact millisecond you click an app inside it, completely bypassing the native Windows UI lag.
 
 *Developed by Cougar16 for the Windows customization community.*
