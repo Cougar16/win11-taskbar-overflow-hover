@@ -1,4 +1,4 @@
-# Taskbar & System Tray Overflow on Hover
+# Taskbar & System Tray Overflow on Hover 🚀
 **Upgrade your Windows 11 experience with this seamless Quality-of-Life enhancement.**
 
 A zero-click QoL upgrade for Windows 11.
